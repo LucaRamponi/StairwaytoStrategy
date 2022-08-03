@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StairwaytoStrategy
 - 👀 I’m interested in ... becoming independent through IT
-- 🌱 I’m currently learning ... Javascript, CS
+- 🌱 I’m currently learning ... Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... reach me to my email> lucalucaytv@gmail.com
 
